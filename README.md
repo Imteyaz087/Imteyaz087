@@ -5,7 +5,7 @@
 Systems integration engineer in Kaohsiung, Taiwan — manufacturing software, and the
 infrastructure underneath it.
 
-My semiconductor work was at **Gether Technology (2022–23)**: SECS/GEM equipment-to-host
+My semiconductor work was at **Gether Technology (Oct 2022 – Feb 2023)**: SECS/GEM equipment-to-host
 data pipelines into MES/EAP for semiconductor and IC-packaging (OSAT) customers, MES/ERP
 modules in C#/.NET over SQL Server and Oracle, and root-cause analysis of tool
 communication failures alongside cleanroom operators and equipment vendors. Before that,
@@ -13,7 +13,7 @@ three years running Azure and Windows Server infrastructure at 99.9% availabilit
 200+ users, and Bloomberg Terminal data operations at Wipro.
 
 Seven-plus years in engineering roles across Taiwan and India. Taiwan APRC (permanent
-resident) · MSc Engineering, NKNU · English and Mandarin.
+resident) · MSc Engineering, NKNU · English (full professional) and Mandarin (conversational, NSYSU certificate).
 
 ---
 
@@ -54,7 +54,7 @@ those numbers exactly, and every learned weight is interpretable.
 
 Self-directed projects between roles, mostly in private repositories:
 
-* Designed and built a cross-platform fitness app in React, TypeScript and Firebase — five locales, a large automated test suite, submitted for App Store review.
+* Designed and built a cross-platform fitness app in React, TypeScript and Firebase — five locales and a ~7,000-test automated CI suite. App Store submission in progress.
 * Run a local on-device LLM environment on Apple Silicon: model serving, quantisation, and throughput and memory tuning, plus the tooling around it.
 
 ---
